@@ -290,7 +290,7 @@ body {
 
 /* 5번만 배경 하얗게____CUT*/
 #section5 .cdj__item__img5 {
-    background-image: url(../img/main.jpg);
+    background-image: url(/img/main.jpg);
 }
 
 #section6 .cdj__item__img {
